@@ -106,3 +106,38 @@ body{
     justify-content: space-between;
     margin-top: 30px;
 }
+
+#header{
+    position: absolute;
+    width: 1440px;
+    height: 371px;
+    left: 30px;
+    top: 1712px;
+
+    background: #31C5A1;
+    border-radius: 0px;
+}
+.head{
+    display: flex;
+    position: absolute;
+    width: 605px;
+    height: 100px;
+    left: 520px;
+    top: 100px;
+    color:#FFFFFF;
+    font-size: 10px;
+}
+.h1{
+    display: flex;
+    position: absolute;
+    width: 204px;                              px;
+    height: 35px;
+    left: 618px;
+    top: 150px;
+    line-height: 35px;
+    text-align: center;
+    font-size: 10px;
+    color:#FFFFFF;
+
+}
+
